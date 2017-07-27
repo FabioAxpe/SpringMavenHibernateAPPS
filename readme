@@ -2,4 +2,6 @@ A project Java with Spring Maven and Hibernate.
 
 SpringMavenHibernateAPPS/liga/src/main/webapp/resources/bd/ -->is there the database to import in mysql
 
-the aplicattion url is: localhost8080/liga/listarjugadores
+the aplicattion url is: http://localhost:8080/liga/listarjugadores
+
+This app lists,edits,deletes and adds players and teams and also associates them.
