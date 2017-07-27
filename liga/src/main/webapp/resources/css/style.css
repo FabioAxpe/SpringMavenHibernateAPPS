@@ -1,0 +1,121 @@
+div#paginalistar {
+    display: block;
+    border-width: 4px;
+    border-style: dotted;
+    border-color: red;
+    width: 80%;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+        background-color: rgba(244, 229, 54, 0.2);
+}
+div#paginalistar1 {
+    display: block;
+    border-width: 4px;
+    border-style: dotted;
+    border-color: red;
+    width: 88%;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+        background-color: rgba(244, 229, 54, 0.2);
+}
+div#paginafichajes {
+    display: block;
+    border-width: 4px;
+    border-style: dotted;
+    border-color: red;
+    width: 25%;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+        background-color: rgba(244, 229, 54, 0.2);
+}
+div#paginamodificar {
+    display: block;
+    border-width: 4px;
+    border-style: dotted;
+    border-color: red;
+    width: 25%;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+        background-color: rgba(244, 229, 54, 0.2);
+}
+div#paginaanadir {
+    display: block;
+    border-width: 4px;
+    border-style: dotted;
+    border-color: red;
+    width: 18%;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+        background-color: rgba(244, 229, 54, 0.2);
+}
+button.botonborrar {
+    background-color: red;
+}
+button.botonupdate {
+    background-color: #bfb8b8;
+    color: white;
+}
+
+button.botonanadir {
+    background-color: green;
+    color: white;
+}
+input#id {
+    width: 15%;
+}
+input#nombre {
+    width: 15%;
+}
+input#valor {
+    width: 15%;
+}
+table#tablaListar {
+    border: 1px solid red;
+    margin-top: 25px;
+        margin-bottom: 25px;
+}
+div#jugadores {
+	    display: table-cell;
+    width: 45%;
+}
+div#jugadores1 {
+	    display: table-cell;
+    width: 22%;
+}
+div#equipos {
+    width: 35%;
+    display: table-cell;
+}
+div#equipos1 {
+    width: 22%;
+    display: table-cell;
+}
+div#fichajes {
+    width: 30%;
+    display: table-cell;
+}
+div#fichajes1 {
+    width: 22%;
+    display: table-cell;
+}
+input#nombre {
+    width: 40%;
+}
+table#tablaCampo {
+    background-size: 100%;
+    background-image: url(http://2.bp.blogspot.com/_HWJA3wNb9pM/TBKnWGeFEDI/AAAAAAAAL6o/MPFiDur953A/s1600/soccer+party+placemat.jpg);
+    height: 540px;
+    width: 85%;
+    color: #caf100;
+    font-size: 20px;
+}
